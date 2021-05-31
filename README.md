@@ -1,2 +1,5 @@
-# CursosPythonEnPlatzi
-Este repositorio contiene los script desarrollados durante mi aprendizaje del lenguaje Python en Platzi.com
+# Cursos de Python
+
+Este repositorio contiene los script desarrollados en las clases de diferentes cursos de Python tomados en Platzi durante el año 2021.
+
+
